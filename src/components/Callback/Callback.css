@@ -1,0 +1,87 @@
+.callback {
+    background: #002051;
+}
+
+.callback__container {
+    width: 820px;
+    padding: 87px 0 87px 201px;
+    color: #fff;
+}
+
+.callback__title {
+    font-style: normal; 
+	font-weight: 700; 
+	font-size: 24px; 
+	line-height: 29,3px;
+    margin: 0;
+}
+
+.callback__subtitle {
+    font-style: normal; 
+	font-weight: 500; 
+	font-size: 16px; 
+	line-height: 22,4px;
+    margin: 28px 0;
+}
+
+.callback__form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.callback__input-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.callback__subtext {
+    min-height: 22px;
+    color: #99A6B9;
+    font-style: normal; 
+	font-weight: 500; 
+	font-size: 10px; 
+	line-height: 12px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.callback__input {
+    margin-right: 28px;
+    width: 396px;
+    font-style: normal; 
+	font-weight: 500; 
+	font-size: 16px; 
+	line-height: 19,5px;
+    color: #fff;
+    background-color: #002051;
+    border: none;
+    border-bottom: 1px solid #99A6B9;
+    padding: 0 0 5px 0;
+}
+
+.callback__input:last-child {
+    margin-right: 0;
+}
+
+.callback__button {
+    width: 100%;
+    height: 50px;
+    padding: 0;
+    border-radius: 2px;
+    border: none;
+    color: #002051;
+    background-color: #fff;
+    margin-top: 55px;
+    font-style: normal; 
+	font-weight: 500; 
+	font-size: 16px; 
+	line-height: 19,5px;
+    opacity: 1;
+    transition: opacity 2s;
+}
+
+.callback__button:hover {
+    opacity: .6;
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+.list__container {
+    display: flex;
+    width: 344px;
+    justify-content: space-between;
+}
+
+.list__container:last-child {
+    margin-left: 160px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list__text {
+    color: #002051;
+	font-style: normal; 
+	font-weight: 500; 
+	font-size: 16px; 
+	line-height: 22px;
+    margin: 0;
+}
+
+.list__text_item {
+    margin-bottom: 10px;
+}
+
+.list__text_item:last-child {
+    margin-bottom: 0;
+}
+
+.list__text_pale {
+    color: #99A6B9;
+    font-weight: 400;
+}
+

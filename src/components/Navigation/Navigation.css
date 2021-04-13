@@ -1,0 +1,131 @@
+.navigation {
+	width: 100%;
+    border-bottom: 1px solid #EAF9FC;
+}
+
+.navigation__menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 0 94px;
+}
+
+.navigation__link {
+    margin-right: 15px;
+    color: #002051;
+	font-style: normal; 
+	font-weight: 400; 
+	font-size: 16px; 
+	line-height: 22px;
+	text-decoration: none;
+    opacity: 1;
+    transition: opacity 2s;
+}
+
+.navigation__link:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+.navigation__link:last-child {
+    margin-right: 0;
+}
+
+.navigation__phone-number {
+    margin: 0;
+    color: #002051;
+	font-style: normal; 
+	font-weight: 700; 
+	font-size: 16px; 
+	line-height: 22px;
+}
+
+.navigation__search-menu {
+    padding: 0 94px;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.navigation__search-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation__logo-container {
+    display: flex;
+    align-items: flex-start;
+    margin: auto 0;
+}
+
+.navigation__logo-image_left {
+    margin-left: -7px;
+}
+
+.navigation__button {
+    display: flex;
+    min-width: 127px;
+    height: 40px;
+    background-color: #002051;
+    border-radius: 2px;
+    border: none;
+    color: #fff;
+	font-style: normal; 
+	font-weight: 500; 
+	font-size: 16px; 
+	line-height: 20px;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 2s;
+    padding: 0;
+}
+
+.navigation__button:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+.navigation__button-image {
+    margin-right: 12px;
+}
+
+.navigation__search-bar {
+    min-width: calc(100% - 434px);
+    font-style: normal; 
+	font-weight: 400; 
+	font-size: 16px; 
+	line-height: 22px;
+    border-radius: 4px;
+    opacity: .7;
+    border: 1px solid #002051;
+    background: url(../../images/search-btn.svg) no-repeat 98%;
+    padding: 0 16px;
+}
+
+.navigation__image {
+    opacity: 1;
+    transition: opacity 2s;
+}
+
+.navigation__image:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+.navigation__cart {
+    position: relative;
+    display: flex;
+}
+
+.navigation__cart-items {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #E83850;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: -3px;
+}
+
