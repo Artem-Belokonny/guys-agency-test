@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/guys-agency-test/static/css/main.aba38248.chunk.css",
+    "main.js": "/guys-agency-test/static/js/main.4c9ddbcc.chunk.js",
+    "main.js.map": "/guys-agency-test/static/js/main.4c9ddbcc.chunk.js.map",
+    "runtime-main.js": "/guys-agency-test/static/js/runtime-main.62199904.js",
+    "runtime-main.js.map": "/guys-agency-test/static/js/runtime-main.62199904.js.map",
+    "static/js/2.82ebabf7.chunk.js": "/guys-agency-test/static/js/2.82ebabf7.chunk.js",
+    "static/js/2.82ebabf7.chunk.js.map": "/guys-agency-test/static/js/2.82ebabf7.chunk.js.map",
+    "index.html": "/guys-agency-test/index.html",
+    "static/css/main.aba38248.chunk.css.map": "/guys-agency-test/static/css/main.aba38248.chunk.css.map",
+    "static/js/2.82ebabf7.chunk.js.LICENSE.txt": "/guys-agency-test/static/js/2.82ebabf7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/guys-agency-test/static/media/Montserrat-SemiBold.19721359.woff",
+    "static/media/account-btn.40e9eb8c.svg": "/guys-agency-test/static/media/account-btn.40e9eb8c.svg",
+    "static/media/bucket.7549979e.svg": "/guys-agency-test/static/media/bucket.7549979e.svg",
+    "static/media/burger.3d66586c.svg": "/guys-agency-test/static/media/burger.3d66586c.svg",
+    "static/media/cart.94516e20.svg": "/guys-agency-test/static/media/cart.94516e20.svg",
+    "static/media/filtr.b82aec66.svg": "/guys-agency-test/static/media/filtr.b82aec66.svg",
+    "static/media/m.582dc010.svg": "/guys-agency-test/static/media/m.582dc010.svg",
+    "static/media/minus.afd31d09.svg": "/guys-agency-test/static/media/minus.afd31d09.svg",
+    "static/media/p.c482c775.svg": "/guys-agency-test/static/media/p.c482c775.svg",
+    "static/media/plus.7a92985d.svg": "/guys-agency-test/static/media/plus.7a92985d.svg",
+    "static/media/propeller-small.0fee17d7.svg": "/guys-agency-test/static/media/propeller-small.0fee17d7.svg",
+    "static/media/propeller.34130463.svg": "/guys-agency-test/static/media/propeller.34130463.svg",
+    "static/media/r.f0b80e1a.svg": "/guys-agency-test/static/media/r.f0b80e1a.svg",
+    "static/media/Navigation.css": "/guys-agency-test/static/media/search-btn.450e9576.svg",
+    "static/media/u.a2a69653.svg": "/guys-agency-test/static/media/u.a2a69653.svg",
+    "static/media/w.218461ab.svg": "/guys-agency-test/static/media/w.218461ab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62199904.js",
+    "static/js/2.82ebabf7.chunk.js",
+    "static/css/main.aba38248.chunk.css",
+    "static/js/main.4c9ddbcc.chunk.js"
+  ]
+}
